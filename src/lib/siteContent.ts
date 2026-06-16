@@ -1,7 +1,7 @@
 export const siteContent = {
   meta: {
-    title: "Arusuvai — Contemporary Dining with Traditional Roots",
-    description: "Where tradition meets the art of modern flavor. Arusuvai offers culinary craft rooted in heritage, elevated by modern technique, featuring seasonal ingredients and precision plating in an intimate dining atmosphere.",
+    title: "Arusuvai Restaurant Chennai | Best Biryani & Thokku Biryani in Chennai",
+    description: "Arusuvai Restaurant in Chennai serves the best biryani in Chennai. Famous for authentic thokku biryani Chennai and traditional biryani varieties. Experience exceptional flavors at the best biryani restaurant in Chennai.",
   },
   
   nav: {
@@ -12,119 +12,118 @@ export const siteContent = {
       { label: "Atmosphere", href: "#atmosphere" },
       { label: "Visit", href: "#visit" },
     ],
-    cta: "Reserve",
+    cta: "Order Now",
   },
   
   hero: {
-    badge: "Contemporary Dining",
-    headline: "Where tradition meets the art of modern flavor",
-    subtext: "Every dish at Arusuvai tells a story — crafted with seasonal ingredients, plated with precision, and served in an atmosphere that honors both heritage and innovation.",
-    cta: "Explore our menu",
-    image: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=1600&q=80",
+    badge: "Chennai's Biryani Destination",
+    headline: "Experience the best biryani in Chennai",
+    subtext: "Arusuvai Restaurant brings you authentic Chennai biryani crafted with traditional spices and the finest ingredients. Home of the legendary thokku biryani Chennai — a flavor experience you won't forget.",
+    cta: "Explore our biryani menu",
+    image: "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=1600&q=80",
   },
   
   about: {
     label: "Our Story",
-    heading: "Culinary craft rooted in tradition, elevated by modern technique",
+    heading: "Chennai's destination for authentic biryani & thokku biryani",
     paragraphs: [
-      "Arusuvai was born from a simple belief: that the most memorable meals honor their origins while embracing the possibilities of contemporary craft. Our kitchen is a place where grandmother's recipes meet precision technique, where market-fresh ingredients are transformed into dishes that surprise and satisfy.",
-      "Chef Priya Krishnan brings fifteen years of culinary exploration to every plate — trained in classical methods, inspired by global flavors, devoted to showcasing the natural beauty of seasonal produce. Each dish is an expression of balance: bold and subtle, familiar and unexpected, comforting and refined.",
-      "We source from local farms and trusted purveyors who share our commitment to quality. Our menu changes with the seasons, ensuring that every visit offers something new to discover. This is dining as it should be: intentional, flavorful, and unforgettable.",
+      "Arusuvai Restaurant has become synonymous with the best biryani in Chennai. Our journey began with a passion for preserving traditional biryani-making techniques while creating something truly unique — our signature thokku biryani Chennai.",
+      "Every biryani at Arusuvai is cooked with meticulous attention to detail. We use premium basmati rice, hand-selected spices, and slow-cooking methods that allow flavors to develop fully. Our thokku biryani Chennai features a rich, spiced meat preparation that's become legendary among biryani lovers in Chennai.",
+      "From our classic chicken biryani to our famous mutton thokku biryani, each dish reflects our commitment to quality and authenticity. Whether you're a Chennai local or visiting our city, Arusuvai Restaurant offers a biryani experience that stands apart.",
     ],
   },
   
   menu: {
-    label: "Signature Dishes",
-    heading: "A menu that honors seasons and celebrates flavor",
+    label: "Biryani Specialties",
+    heading: "Our signature biryani collection",
     dishes: [
       {
-        name: "Seared Scallops with Cauliflower Purée",
-        description: "Diver scallops crisped to golden, resting on silky cauliflower, finished with brown butter and micro herbs.",
-        image: "https://images.unsplash.com/photo-1559847844-5315695dadae?auto=format&fit=crop&w=1600&q=80",
+        name: "Thokku Biryani Chennai Special",
+        description: "Our legendary thokku biryani — tender meat cooked in rich, spiced gravy with fragrant basmati rice. The signature dish that made us Chennai's favorite.",
+        image: "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=1600&q=80",
         badge: "Signature",
       },
       {
-        name: "Slow-Braised Short Rib",
-        description: "Fork-tender beef short rib glazed with tamarind and palm sugar, served over coconut jasmine rice with crispy shallots.",
-        image: "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1600&q=80",
+        name: "Mutton Thokku Biryani",
+        description: "Premium mutton pieces slow-cooked in aromatic thokku masala, layered with aged basmati rice and traditional spices.",
+        image: "https://images.unsplash.com/photo-1633945274405-b6c8069047b0?auto=format&fit=crop&w=1600&q=80",
+        badge: "Best Seller",
+      },
+      {
+        name: "Chicken Biryani",
+        description: "Classic Chennai-style chicken biryani with succulent pieces, aromatic spices, and perfectly cooked basmati rice.",
+        image: "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=1600&q=80",
+        badge: "Popular",
+      },
+      {
+        name: "Mutton Biryani",
+        description: "Traditional mutton biryani with tender meat, fragrant rice, and our secret blend of Chennai spices.",
+        image: "https://images.unsplash.com/photo-1642821373181-696a54913e93?auto=format&fit=crop&w=1600&q=80",
         badge: null,
       },
       {
-        name: "Heirloom Tomato & Burrata",
-        description: "Peak-season tomatoes with hand-pulled burrata, basil oil, preserved lemon, and sourdough crumble.",
-        image: "https://images.unsplash.com/photo-1608897013039-887f21d8c804?auto=format&fit=crop&w=1600&q=80",
-        badge: "Seasonal",
-      },
-      {
-        name: "Miso-Glazed Black Cod",
-        description: "Buttery black cod marinated in white miso and mirin, broiled until caramelized, with charred bok choy and ginger rice.",
-        image: "https://images.unsplash.com/photo-1580959375944-1ab5b8c75f02?auto=format&fit=crop&w=1600&q=80",
+        name: "Chicken Thokku Biryani",
+        description: "Flavorful chicken in spiced thokku preparation, creating layers of taste in every bite of this Chennai specialty.",
+        image: "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?auto=format&fit=crop&w=1600&q=80",
         badge: "Signature",
       },
       {
-        name: "Spiced Duck Breast",
-        description: "Seared duck breast with five-spice glaze, roasted root vegetables, and cherry reduction.",
-        image: "https://images.unsplash.com/photo-1612518091829-1047cee8a6f8?auto=format&fit=crop&w=1600&q=80",
+        name: "Vegetable Biryani",
+        description: "Fresh vegetables and aromatic spices layered with premium basmati rice for a delightful vegetarian option.",
+        image: "https://images.unsplash.com/photo-1645177628172-a94c1f96e6db?auto=format&fit=crop&w=1600&q=80",
         badge: null,
-      },
-      {
-        name: "Wild Mushroom Risotto",
-        description: "Creamy arborio rice with foraged mushrooms, aged parmesan, truffle oil, and crispy sage.",
-        image: "https://images.unsplash.com/photo-1476124369491-c0df53db5a95?auto=format&fit=crop&w=1600&q=80",
-        badge: "Seasonal",
       },
     ],
   },
   
   atmosphere: {
     label: "Atmosphere",
-    heading: "A space designed for savoring the moment",
-    description: "Our dining room balances warmth and refinement — natural materials, soft lighting, and an open kitchen that invites you into the heart of the experience. Every detail is intentional, from the hand-thrown ceramics to the curated soundtrack.",
+    heading: "Modern ambiance, authentic Chennai flavors",
+    description: "Arusuvai Restaurant combines contemporary design with warm hospitality. Our modern, sleek interiors create the perfect setting to enjoy the best biryani in Chennai. Whether dining in or taking away, we ensure every guest experiences the authentic taste of Chennai biryani.",
     images: [
       {
         url: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1600&q=80",
-        alt: "Intimate dining room with warm lighting",
+        alt: "Modern interior of Arusuvai Restaurant Chennai",
+      },
+      {
+        url: "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1600&q=80",
+        alt: "Chefs preparing biryani at Arusuvai",
       },
       {
         url: "https://images.unsplash.com/photo-1552566626-52f8b828add9?auto=format&fit=crop&w=1600&q=80",
-        alt: "Open kitchen with chef plating dishes",
-      },
-      {
-        url: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=1600&q=80",
-        alt: "Elegant table setting with natural light",
+        alt: "Dining experience at best biryani restaurant Chennai",
       },
     ],
   },
   
   visit: {
     label: "Visit Us",
-    heading: "We look forward to welcoming you",
+    heading: "Find the best biryani in Chennai at Arusuvai",
     location: {
       title: "Location",
-      address: "123 Heritage Lane",
-      city: "Chennai, Tamil Nadu 600001",
+      address: "123 Mount Road",
+      city: "Chennai, Tamil Nadu 600002",
       country: "India",
     },
     hours: {
       title: "Hours",
       schedule: [
-        { days: "Tuesday – Thursday", time: "5:00 PM – 10:00 PM" },
-        { days: "Friday – Saturday", time: "5:00 PM – 11:00 PM" },
-        { days: "Sunday", time: "12:00 PM – 9:00 PM" },
-        { days: "Monday", time: "Closed" },
+        { days: "Monday – Thursday", time: "11:00 AM – 10:00 PM" },
+        { days: "Friday – Saturday", time: "11:00 AM – 11:00 PM" },
+        { days: "Sunday", time: "11:00 AM – 10:00 PM" },
       ],
     },
     reservation: {
-      title: "Reservations",
-      description: "We accept reservations for parties of 2-8 guests. For larger groups or private events, please contact us directly.",
-      cta: "Reserve via WhatsApp",
+      title: "Order & Reservations",
+      description: "Visit us for dine-in or order our famous thokku biryani for delivery. We also accept reservations for groups and special occasions.",
+      cta: "Order via WhatsApp",
       whatsappNumber: "+911234567890",
-      whatsappMessage: "Hello, I'd like to make a reservation at Arusuvai.",
+      whatsappMessage: "Hello, I'd like to order from Arusuvai Restaurant Chennai.",
     },
   },
   
   footer: {
-    tagline: "Where tradition meets the art of modern flavor",
+    tagline: "Chennai's destination for authentic biryani & thokku biryani",
     contact: {
       email: "hello@arusuvai.com",
       phone: "+91 123 456 7890",
@@ -133,7 +132,7 @@ export const siteContent = {
       { platform: "Instagram", url: "#", handle: "@arusuvai" },
       { platform: "Facebook", url: "#", handle: "Arusuvai" },
     ],
-    legal: "© 2024 Arusuvai. All rights reserved.",
+    legal: "© 2024 Arusuvai Restaurant Chennai. All rights reserved.",
   },
 } as const;
 
