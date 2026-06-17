@@ -117,7 +117,7 @@ export const siteContent = {
       title: "Order & Reservations",
       description: "Visit us for dine-in or order our famous thokku biryani for delivery. We also accept reservations for groups and special occasions.",
       cta: "Order via WhatsApp",
-      whatsappNumber: "+911234567890",
+      whatsappNumber: "+917550292783",
       whatsappMessage: "Hello, I'd like to order from Arusuvai Restaurant Chennai.",
     },
   },
@@ -126,7 +126,7 @@ export const siteContent = {
     tagline: "Chennai's destination for authentic biryani & thokku biryani",
     contact: {
       email: "hello@arusuvai.com",
-      phone: "+91 123 456 7890",
+      phone: "+91 755 029 2783",
     },
     social: [
       { platform: "Instagram", url: "#", handle: "@arusuvai" },
